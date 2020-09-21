@@ -1,0 +1,15 @@
+Index: src/Dice.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Dice {\r\n    public static void main(String[] args) {\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Dice.java	(revision 93b4223fc0a6cf50c9f510b0c2e1cc33c6469650)
++++ src/Dice.java	(date 1600703946547)
+@@ -1,5 +1,2 @@
+ public class Dice {
+-    public static void main(String[] args) {
+-
+-    }
+ }
